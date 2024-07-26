@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="empty_not_saved">Contact not saved because its empty.</string>
+    <string name="do_not_action">Do not action.</string>
+    <string name="number">Number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="add">Add</string>
+    <string name="select_image">Select Image</string>
+    <string name="enter_email">Enter email</string>
+    <string name="todo">TODO</string>
+    <string name="image">image</string>
+    <string name="todo1">TODO1</string>
+</resources>
